@@ -1,0 +1,6 @@
+streamlit
+vosk
+sounddevice
+pygame
+gtts
+numpy
